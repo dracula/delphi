@@ -1,3 +1,5 @@
+![Dracula](./draculabelalugosired.gif)
+
 # Dracula for [Delphi](https://www.embarcadero.com/products/delphi)
 
 > A dark theme for [Delphi](https://www.embarcadero.com/products/delphi).
