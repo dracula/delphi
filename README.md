@@ -2,7 +2,7 @@
 
 # Dracula for [Delphi](https://www.embarcadero.com/products/delphi)
 
-> A dark theme for [Delphi](https://www.embarcadero.com/products/delphi).
+> A dark theme for [Delphi](https://www.embarcadero.com/products/delphi) based on [Dracula theme](https://github.com/dracula/dracula-theme). 
 
 ## Color Palette
 
