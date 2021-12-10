@@ -1,20 +1,19 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Delphi](https://www.embarcadero.com/products/delphi)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Delphi](https://www.embarcadero.com/products/delphi).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Rodrigo Ruz](https://github.com/rruz.png?size=100)](https://github.com/rruz) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Rodrigo Ruz](https://github.com/rruz) |
 
 ## License
 
