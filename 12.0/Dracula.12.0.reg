@@ -1,0 +1,373 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Theme]
+"DarkSpeedSetting"="Dracula"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Structural Highlighting]
+"Color1"="$00fde98b"
+"Color2"="$007bfa50"
+"Color3"="$006cb8ff"
+"Color4"="$008cfaf1"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula]
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Additional search match highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00362A28"
+"Background Color New"="$005a4744"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Assembler]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$007bfa50"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Attribute Names]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Attribute Values]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clWhite"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Brace Highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clSilver"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Character]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00AA7FFF"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Code folding tree]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f993bd"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Comment]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00A47262"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Diff addition]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clNavy"
+"Background Color New"="clYellow"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Diff deletion]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clNavy"
+"Background Color New"="clRed"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Diff move]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clNavy"
+"Background Color New"="clBlue"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Disabled break]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00362A28"
+"Background Color New"="$00fde98b"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Enabled break]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00362A28"
+"Background Color New"="$00f993bd"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Error line]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f2f8f8"
+"Background Color New"="$005555ff"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Execution point]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00362A28"
+"Background Color New"="$006cb8ff"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Float]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f993bd"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Folded code]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f993bd"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Hex]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f993bd"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Hot Link]
+"Bold"="False"
+"Italic"="False"
+"Underline"="True"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FF7F2A"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Identifier]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f2f8f8"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Illegal Char]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clRed"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Invalid break]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00362A28"
+"Background Color New"="$00f2f8f8"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Line Highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="True"
+"Default Background"="False"
+"Foreground Color New"="$00362A28"
+"Background Color New"="$005a4744"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Line Number]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f2f8f8"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Marked block]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="True"
+"Default Background"="False"
+"Foreground Color New"="$00362A28"
+"Background Color New"="$005a4744"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Modified line]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$007bfa50"
+"Background Color New"="$008cfaf1"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Number]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f993bd"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Octal]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f993bd"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Plain text]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00FFFEFA"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Preprocessor]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00fde98b"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Reserved word]
+"Bold"="True"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00C679FF"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Right margin]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f993bd"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Scripts]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clRed"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Search match]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00fde98b"
+"Background Color New"="$005a4744"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\String]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$008CFAF1"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Symbol]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00F0F9FF"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Sync edit background]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="True"
+"Default Background"="False"
+"Foreground Color New"="clBlack"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Sync edit highlight]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="clBlue"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Tags]
+"Bold"="True"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00C679FF"
+"Background Color New"="$00362A28"
+
+[HKEY_CURRENT_USER\SOFTWARE\Embarcadero\BDS\23.0\Editor\Highlight\Custom Themes\Dracula\Whitespace]
+"Bold"="False"
+"Italic"="False"
+"Underline"="False"
+"Default Foreground"="False"
+"Default Background"="False"
+"Foreground Color New"="$00f2f8f8"
+"Background Color New"="$00362A28"
+
